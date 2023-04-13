@@ -10,6 +10,8 @@ Aswathi Shiju - [LinkedIn profile](https://www.linkedin.com/in/aswathi-shiju/)
 
 This repository contains Terraform based infrastructure of code experiments I tried out during my cloud learning journey. As they say , learning is for a life time :) 
 
+It is a work-in-progress, I am adding new projects as I progress though different use cases.
+
 If you would like to try out this code , please feel free to clone this repo.In case you have any questions please send a message in LinkedIn or raise a github issue. 
 
 ## Create an EC2 instance in AWS 
