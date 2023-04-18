@@ -8,7 +8,7 @@
 ## IaC using Terraform and CI/CD
 Aswathi Shiju - [LinkedIn profile](https://www.linkedin.com/in/aswathi-shiju/)
 
-This repository contains Terraform based infrastructure of code experiments I tried out during my cloud learning journey. As they say , learning is for a life time :) 
+This repository contains Terraform based infrastructure as code experiments I tried out during my cloud learning journey. As they say , learning is for a life time :) 
 
 It is a work-in-progress, I am adding new projects as I progress though different use cases.
 
