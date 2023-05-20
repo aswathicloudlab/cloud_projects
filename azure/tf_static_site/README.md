@@ -65,4 +65,4 @@ Notes:
 
 ## License
 
-This code is released under the MIT License 2.0. Please see [LICENSE](https://github.com/hashicorp/terraform-aws-consul-oss/blob/master/LICENSE) for more details.
+This code is released under the MIT License 2.0. Please see [LICENSE](https://github.com/aswathicloudlab/cloud_projects/blob/main/azure/tf_static_site/LICENSE) for more details.
