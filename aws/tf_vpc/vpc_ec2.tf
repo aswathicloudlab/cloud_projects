@@ -65,7 +65,7 @@ resource "aws_iam_role_policy_attachment" "ec2_ssm_acees_role_attachment" {
 # Create an IAM instance profile and associate it with the IAM role
 
 resource "aws_iam_instance_profile" "webserver_instance_profile" {
-  name = "webserver_instance_profile"
+  name = "webserver_instance_profile_v2"
 
   role = aws_iam_role.ec2_ssm_role.name
 
